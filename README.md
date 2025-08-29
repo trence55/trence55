@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on git commands and cloud
 - 📫 How to reach me email
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  "I'm in - over my head".
 
 <!---
 trence55/trence55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
